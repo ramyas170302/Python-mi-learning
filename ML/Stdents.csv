@@ -1,0 +1,16 @@
+StudyHours,Attendance,Gender,Internet,PreviousMarks,Result
+2,50,Male,No,30,Fail
+3,60,Female,Yes,40,Fail
+5,70,Male,Yes,55,Pass
+6,75,Female,Yes,60,Pass
+1,40,Male,No,20,Fail
+8,90,Female,Yes,85,Pass
+7,85,Male,Yes,78,Pass
+4,65,Female,No,50,Fail
+9,95,Male,Yes,92,Pass
+2,55,Female,No,35,Fail
+6,80,Male,Yes,70,Pass
+3,58,Female,No,42,Fail
+7,88,Male,Yes,81,Pass
+5,72,Female,Yes,63,Pass
+1,35,Male,No,18,Fail
