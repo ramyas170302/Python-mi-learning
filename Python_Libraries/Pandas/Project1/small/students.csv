@@ -1,0 +1,16 @@
+ID,Name,Department,Marks,Attendance,City
+1,Ramya,CSE,85,90,Bangalore
+2,Ravi,ECE,90,85,Mysore
+3,Sita,CSE,,80,Bangalore
+4,John,EEE,70,75,Chennai
+5,Anu,,88,92,Hyderabad
+6,Kiran,CSE,95,,Delhi
+7,Meena,ECE,60,70,Mysore
+8,Arjun,EEE,78,88,Bangalore
+9,Pooja,CSE,82,91,Hyderabad
+10,Vikram,ECE,,65,Chennai
+11,Deepu,Civil,99,95,Bangalore
+12,Asha,AIML,91,89,Delhi
+13,Rohan,Mechanical,76,72,Mumbai
+14,Sneha,Civil,84,87,Chennai
+15,Varun,AIML,88,90,Hyderabad
